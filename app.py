@@ -91,13 +91,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-## MyEnv\Scripts\activate
-## pip install --upgrade keras
-## pip install --upgrade tensorflow
-## To run the file: streamlit run "C:\Users\Abhin\Downloads\Gesture Detection in Video Sequences\app.py"
-
-## If the project shows error then try this out:
-## pip uninstall opencv-python-headless
-## pip install opencv-python
